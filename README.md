@@ -40,9 +40,8 @@ To install the Expense Tracker App, follow these steps:
 
 Clone this repository to your local machine.
 
-bash
-Copy code
-git clone <repository-url>
+
+git clone https://github.com/prijak/expences_tracker
 Navigate to the app's directory.
 
 
